@@ -1,0 +1,8 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_core.ipynb
+      - ReqRespBunch.ipynb
+      - RestReqFactory.ipynb
+      - Runner.ipynb
