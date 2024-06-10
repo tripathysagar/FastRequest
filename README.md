@@ -42,4 +42,4 @@ and any required validation. Please consider the below digram.
 
 ### Flow Chart
 
-![](./nbs/static/flow-chart.png)
+![](./static/flow-chart.png)
