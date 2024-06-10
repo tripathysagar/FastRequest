@@ -6,4 +6,4 @@ website:
   site-url: "https://tripathysagar.github.io/FastRequest"
   description: "Wrapper around Request lib. For chaining the rest calls"
   repo-branch: main
-  repo-url: "https://github.com/tripathysagar/FastRequest"
+  repo-url: "https://github.com/tripathysagar/FastRequest/tree/main"
