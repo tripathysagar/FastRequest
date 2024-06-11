@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "FastRequest"
-  site-url: "https://tripathysagar.github.io/FastRequest"
-  description: "callback system wrapper around request"
-  repo-branch: main
-  repo-url: "https://github.com/tripathysagar/FastRequest"
