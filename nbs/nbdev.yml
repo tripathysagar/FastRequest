@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "FastRequest"
+  site-url: "https://tripathysagar.github.io/FastRequest"
+  description: "Wrapper around request"
+  repo-branch: main
+  repo-url: "https://github.com/tripathysagar/FastRequest"
